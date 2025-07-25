@@ -11,7 +11,3 @@ This project demonstrates how to convert JSON data to Excel format and download 
 
 - express
 - exceljs (or similar library)
-
-## License
-
-MIT
